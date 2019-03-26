@@ -21,8 +21,6 @@ Given a list of emails, we send one email to each address in the list. How many 
 ![email](https://seooasis.co.uk/wp-content/uploads/2015/03/Email-marketing-meme.jpg)
 
 Example 1:
-MicFin
-
 ```
 Input: ["mic.email+finn@generalassemb.ly","mic.e.mail+fi.nn@generalassemb.ly","usman+bashir@general.assemb.ly"]
 Output: 2
